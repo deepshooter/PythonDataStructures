@@ -1,3 +1,5 @@
+#Word count
+
 word = 'banana'
 count = 0
 for letter in word:
