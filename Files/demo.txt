@@ -1,0 +1,5 @@
+Since launching on Google Play nearly 7 years ago, subscriptions have proven to be an essential element in creating 
+sustainable mobile app businesses; 89 of the top 100 highest grossing apps on Google Play in the US now provide
+subscription products. As the market matures, it is becoming increasingly important for subscription developers
+to optimize both subscriber conversion and retention in order to maintain growth. To help you do that, we're rolling
+out new insights available directly in the Play Console.
