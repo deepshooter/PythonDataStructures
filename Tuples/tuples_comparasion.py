@@ -1,0 +1,8 @@
+a = (0,1,2) < (5,1,2)
+print(a)
+b = (0,1,20000) < (0,3,4)
+print(b)
+c = ('Jones','Sally') < ('Jones','Sam')
+print(c)
+d = ('Jones','Sally') > ('Adams','Sam')
+print(d)
